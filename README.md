@@ -1,5 +1,3 @@
-\# Digital Clock
-
+# Digital Clock
 
 A simple project.
-
